@@ -2,7 +2,6 @@
 This is a github account for AnxinCanada.<br>
 https://anxincanada.com
 <br><br><br><br><br><br><br><br>
-<!--
          d8888                   d8b<br>
         d88888                   Y8P<br>
        d88P888<br>
@@ -21,4 +20,3 @@ d88P  Y88b                      
 888    888 .d888888 888  888 .d888888 888  888 .d888888<br>
 Y88b  d88P 888  888 888  888 888  888 Y88b 888 888  888<br>
  "Y8888P"  "Y888888 888  888 "Y888888  "Y88888 "Y888888<br>
- -->
